@@ -1,6 +1,6 @@
 # the-foundation-Blogweb
 
-ini adalah website portofolio dari dicoding indonesia menggunakan vanilla HTML,CSS,JavaScript 
+ini adalah website Blog dari dicoding indonesia menggunakan vanilla HTML,CSS,JavaScript 
 
 jika anda ingin menggunakan repository ini anda bisa mendownloadnya langsung 
 repositori ini biasanya digunakan untuk
